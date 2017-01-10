@@ -38,3 +38,5 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'simple_xlsx_reader'
+gem 'mongo', '~> 2.4'
